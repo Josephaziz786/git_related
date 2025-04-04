@@ -9,4 +9,4 @@ When we commit using git commit -m “message” all the changes that are added 
 Finally, the current branch and HEAD will be pointing to the last commit (i.e. the most recent commit).
 Before we jump in, take a look at the pictorial representation for the different flags. Refer to this diagram throughout the article whenever needed.
 
-## See the image_1 for this concept
+## See the git_reset.png image for this concept
