@@ -10,3 +10,10 @@ Finally, the current branch and HEAD will be pointing to the last commit (i.e. t
 Before we jump in, take a look at the pictorial representation for the different flags. Refer to this diagram throughout the article whenever needed.
 
 ## See the git_reset.png image for this concept
+## Git Reset Flow
+
+![Git Reset Flow](images/git_reset.png)
+
+--------------
+
+
