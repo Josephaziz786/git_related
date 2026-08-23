@@ -81,3 +81,4 @@ Depending on whether you want to keep or modify the commit message, choose one o
 3. **Squash and Merge:**
    - In standard Pull Request (PR) workflows, multiple small commits can be combined into a single clean commit automatically during the "Squash and Merge" step.
 
+https://github.com/Josephaziz786/git_related/blob/main/git_related_images%2FScreenshot_20260823_181716_YouTube.jpg
