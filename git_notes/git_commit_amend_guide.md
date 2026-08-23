@@ -10,7 +10,7 @@ You can use the `git commit --amend` command to roll staged changes directly int
 
 ---
 
-## Step-by-Step Workflow
+## https://github.com/Josephaziz786/git_related/blob/main/git_related_images%2Fgit%20reset.pdf 
 
 ### 1. Stage the new changes
 Stage the specific file or all modified files you want to include:
