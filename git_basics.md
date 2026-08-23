@@ -18,4 +18,4 @@ Before we jump in, take a look at the pictorial representation for the different
 
 https://github.com/Josephaziz786/git_related/upload/main/git_related_images
 
-to paste an image from gallery use the above link
+to paste an image from gallery use the above link,  this will upload the image in git_related_images folder. if you want to upload in another folder replace git_related_images folder with the one you want. 
